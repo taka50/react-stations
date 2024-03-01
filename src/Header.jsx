@@ -1,7 +1,12 @@
 // @ts-check
+import "./App.css";
 
 export const Header = () => {
-  return <></>
-}
+  return (
+    <>
+      <header>MyFirstReactApp</header>
+    </>
+  );
+};
 
-export default Header
+export default Header;

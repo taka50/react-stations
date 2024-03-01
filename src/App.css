@@ -1,0 +1,19 @@
+header {
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.dogImgBox {
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.dogImg {
+  height: 400px;
+  width: 400px;
+  object-fit: contain;
+}
+
+.changeButton {
+  margin: 20px 0px;
+}
